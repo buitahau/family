@@ -1,0 +1,8 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#fbbf24"/>
+  <circle cx="400" cy="270" r="60" fill="white"/>
+  <rect x="340" y="350" width="120" height="100" rx="50" fill="white"/>
+  <circle cx="385" cy="230" r="8" fill="white"/>
+  <circle cx="415" cy="230" r="8" fill="white"/>
+  <text x="400" y="550" text-anchor="middle" fill="white" font-family="Arial" font-size="18" font-weight="bold">JAKE - COSTUME</text>
+</svg>

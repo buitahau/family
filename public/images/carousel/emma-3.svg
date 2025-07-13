@@ -1,0 +1,8 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#34d399"/>
+  <circle cx="400" cy="260" r="70" fill="white"/>
+  <rect x="330" y="350" width="140" height="110" rx="55" fill="white"/>
+  <circle cx="380" cy="210" r="10" fill="white"/>
+  <circle cx="420" cy="210" r="10" fill="white"/>
+  <text x="400" y="550" text-anchor="middle" fill="white" font-family="Arial" font-size="18" font-weight="bold">EMMA - PRESIDENT</text>
+</svg>
